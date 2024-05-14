@@ -25,8 +25,8 @@
    <br/> 
   
    <img alt="pavlena81 GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=pavlena81&theme=blue-green&show_icons=true" />  <img alt="Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlena81&layout=compact&theme=blue-green"/> 
+    src="https://github-readme-stats.vercel.app/api?username=pavlena81&theme=ambient_gradient&show_icons=true" />  <img alt="Top Langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlena81&layout=compact&theme=ambient_gradient"/> 
   
    
 
